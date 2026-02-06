@@ -1,0 +1,9 @@
+Name of the dataset: Instagram usage lifestyle 
+
+Problem Type: Classification
+
+Target Variable: diet_quality
+
+Problem Description:
+
+In this project, the main purpose is to predict an individual’s diet quality based on their way of living and demographic information. By utilizing such characteristics as age, gender, level of income, exercise time/week, sleeping time, whether the person smokes, level of alcohol use, and employment information, a supervised learning model of machine learning would be applied in order to classify users in categories of diet quality such as Excellent, Good, Average, Poor, and Very Poor.
