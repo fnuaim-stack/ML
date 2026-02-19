@@ -10,11 +10,21 @@ Tasks Completed
 
     EDA: Explored the structural distribution of user engagement and lifestyle data.
 
+    Statistical Visualization: Created Matplotlib and Seaborn plots to analyze user trends.
+
+    Correlation Mapping: Used Heatmaps and Clustermaps to find links between lifestyle and engagement.
+
+    Distribution Analysis: Leveraged Boxplots and Violin plots to compare demographics.
+
 
 - Technologies Used
 
     Python
 
     Pandas
+
+    Matplotlib
+
+    Seaborn
 
     Jupyter Notebook
