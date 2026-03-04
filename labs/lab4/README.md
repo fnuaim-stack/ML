@@ -5,7 +5,7 @@ This lab covers the essential steps to clean and prepare raw data for machine le
 
 ## Key Preprocessing Tasks
 1. **Data Cleaning**: Converted Date and Amount to correct numerical/time formats.
-2. **Missing Data**: Used **Median Imputation** to fill gaps safely.lts.
+2. **Missing Data**: Used **Median Imputation** to fill gaps safely.
 3. **Outliers**: Used the **IQR method** to remove extreme values that distort models.
 4. **Scaling**: Normalized data so all features are treated equally.
 5. **PCA**: Simplified the dataset while keeping the most important info.
