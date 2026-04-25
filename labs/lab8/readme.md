@@ -1,4 +1,4 @@
-###KNN Classification Project
+*KNN Classification Project*
 
 Classifying data points using the K-Nearest Neighbors algorithm.
 
