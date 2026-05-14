@@ -3,7 +3,9 @@ A machine learning project that uses K-Means clustering to segment credit card c
 
 ## Dataset
 File: CC_GENERAL.csv
+
 Size: 8,950 customers × 18 features
+
 Key features include: BALANCE, PURCHASES, CASH_ADVANCE, CREDIT_LIMIT, PAYMENTS, and various frequency columns.
 
 ## Project Steps
