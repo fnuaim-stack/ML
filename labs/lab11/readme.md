@@ -8,11 +8,11 @@ Key features include: BALANCE, PURCHASES, CASH_ADVANCE, CREDIT_LIMIT, PAYMENTS, 
 
 ## Project Steps
 
-1. **Data Cleaning** — Drop `CUST_ID`, fill missing values with column mean
+1. **Data Cleaning** — Drop CUST_ID, fill missing values with column mean
 2. **EDA** — Histograms, correlation heatmap, scatter plots
 3. **Feature Scaling** — StandardScaler to normalize all features
 4. **Choosing K** — Elbow method + Silhouette score (K=1 to 10)
-5. **Final Model** — KMeans with K=3 (`random_state=42`, `n_init=10`)
+5. **Final Model** — KMeans with K=3 (random_state=42, n_init=10)
 6. **Cluster Analysis** — Group summary table + customer counts
 7. **Visualization** — PCA 2D plot of clusters
 
